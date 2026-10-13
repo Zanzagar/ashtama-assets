@@ -14,7 +14,7 @@ When there is something to help with, it will be posted here first. Until then: 
 
 ALT TEXT (Advanced settings > Write alt text)
 --------------------------------------------
-A cream-colored image with forty small black dots arranged along an eight-shaped orbit and a larger dot at the crossing. Text reads “A space shaped by everyone who enters it.”
+A cream-colored image with forty small black dots arranged along an eight-shaped orbit and a larger dot at the crossing. Text reads “A space shaped by everyone who enters it.” with a short list beneath it: musicians, visual artists, guests, the ones who stay to help.
 --------------------------------------------
 
 MUSIC: Add music > search "Mist — Auxlee x Mastuh" > start at 0:00 > length: the maximum (90 s). If the track is not in the library, post without music and tell Claude.
