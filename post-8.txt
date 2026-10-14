@@ -1,0 +1,28 @@
+POST-8 — paste into the Instagram app
+
+IMAGE: https://zanzagar.github.io/ashtama-assets/Launch-08.jpg  (open, long-press, save to camera roll)
+IN THE COMPOSER: after picking the photo tap the expand icon (two diagonal arrows, bottom-left of the preview) so it keeps its 4:5 — the default square crop cuts the text off.
+
+CAPTION (copy everything between the lines)
+--------------------------------------------
+What we are working toward:
+
+1 Collective stewardship.
+2 Respect and consent.
+3 Hospitality for everyone.
+4 Credit to the artists, every time.
+5 Clear event information.
+6 Boundaries, stated and kept.
+7 Room for local and emerging artists.
+8 Organizers who answer for their choices.
+
+This is not a policy yet. It is what we are building toward. How it works on a given night, and what to do if something goes wrong, gets written down when it is real, not before. Call us on any of it.
+--------------------------------------------
+
+ALT TEXT (Advanced settings > Write alt text)
+--------------------------------------------
+A numbered list of eight principles in condensed cream capitals on black, the numbers in orange, under the line “What we are working toward:”
+--------------------------------------------
+
+MUSIC: Add music > search "Watching Over — The Widdler" > start at 0:00 > length: the maximum (90 s). If the track is not in the library, post without music and tell Claude.
+No sticker, no location. Post as a single photo, not a Reel.
