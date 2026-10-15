@@ -1,0 +1,21 @@
+POST-9 — paste into the Instagram app
+
+IMAGE: https://zanzagar.github.io/ashtama-assets/Launch-09.jpg  (open, long-press, save to camera roll)
+IN THE COMPOSER: after picking the photo tap the expand icon (two diagonal arrows, bottom-left of the preview) so it keeps its 4:5 — the default square crop cuts the text off.
+
+CAPTION (copy everything between the lines)
+--------------------------------------------
+First light.
+
+First night: Friday, October 30. Details tomorrow.
+
+@ashtama.sc
+--------------------------------------------
+
+ALT TEXT (Advanced settings > Write alt text)
+--------------------------------------------
+A black sphere with a thin crescent of light at its lower edge, on black. Below: “First light.”, “first night · fri 10.30”, and “follow along · @ashtama.sc”.
+--------------------------------------------
+
+MUSIC: Add music > search "Elephant Scatter — Truth" > start at 0:00 > length: the maximum (90 s). If the track is not in the library, post without music and tell Claude.
+No sticker, no location. Post as a single photo, not a Reel.
