@@ -10,9 +10,9 @@ FRI 10.30 · Summit After Dark
 Running order, rough slots, no hard set times:
 01 yungz @itsyungz
 02 joltz @joltzmusic
-03 deaddiscosociety @deaddiscosociety
-04 Dubbletake @dubbletakeofficial
-05 DAZ @alex.okenczyc
+03 DAZ @alex.okenczyc
+04 deaddiscosociety @deaddiscosociety
+05 Dubbletake @dubbletakeofficial
 06 BIG B @xbp_370
 07 Zanzagar @zanzagar.earth
 with @wanderingwubs at @ashtama.sc
@@ -26,7 +26,7 @@ For the ones who stay late and listen deep.
 
 ALT TEXT (Advanced settings > Write alt text)
 --------------------------------------------
-An orange ticket-style afters pass for Summit After Dark, with a black castle under a purple sky and the running order — yungz, joltz, deaddiscosociety, Dubbletake, DAZ, Big B, Zanzagar, each with their genre, no hard set times — for Wandering Wubs and AṢṬAMA's Halloween rave on Fri Oct 30 from 9PM, $5, 18+, DM for address; @wanderingwubs and @ashtama.sc run up the left edge.
+An orange ticket-style afters pass for Summit After Dark, with a black castle under a purple sky and the running order — yungz, joltz, DAZ, deaddiscosociety, Dubbletake, Big B, Zanzagar, each with their genre, no hard set times — for Wandering Wubs and AṢṬAMA's Halloween rave on Fri Oct 30 from 9PM, $5, 18+, DM for address; @wanderingwubs and @ashtama.sc run up the left edge.
 --------------------------------------------
 
 MUSIC: Add music > search "Groove La Afrika — Mele" > start at 0:00 > length: the maximum (90 s). If the track is not in the library, post without music and tell Claude.
